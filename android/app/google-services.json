@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108007371125",
+    "project_id": "blazesms-f7577",
+    "storage_bucket": "blazesms-f7577.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108007371125:android:f089cb5a404bc63ef4633c",
+        "android_client_info": {
+          "package_name": "com.eduu.blazeaiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108007371125-ucr6j6lr6iavoa800ft2m4l5bm6t9psn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ_HbeV-N5RkrhIRuVORzMAEfoKzUu9Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108007371125-ucr6j6lr6iavoa800ft2m4l5bm6t9psn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
